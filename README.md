@@ -10,8 +10,6 @@ dalam repositories ini terdapat file greedy python.
 
 include :
 
-Demo Video
-Laporan Dokumentasi
-file tugas
+Demo Video, Laporan Dokumentasi, file tugas
 
 🎬 link Demo Video : 
