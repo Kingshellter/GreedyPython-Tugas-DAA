@@ -12,4 +12,4 @@ include :
 
 Demo Video, Laporan Dokumentasi, file tugas
 
-🎬 link Demo Video : 
+🎬 link Demo Video : https://www.youtube.com/watch?v=uqF3jLPTzwc
