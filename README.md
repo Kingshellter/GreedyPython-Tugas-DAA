@@ -3,7 +3,9 @@
 Anggota Team :
 
 M. Maulana Gian Pranaja (L0123077)
+
 Primus Putra Prima (L0123111)
+
 dalam repositories ini terdapat file greedy python.
 
 include :
